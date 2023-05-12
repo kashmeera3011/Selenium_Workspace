@@ -1,0 +1,53 @@
+Workspace
+
+Create a Project
+
+Project
+JRE->Library
+src->module-info->delete
+
+Every Program's Execution Starts with Main Method
+
+Access Modifier:
+public->everyone
+private->friends
+protected->
+
+
+Data Type:
+
+integer ->int ->numeric value
+float-> float ->decimal value 
+character->char ->characters
+double-> double ->decimal value 
+String-> String ->Any data ->""
+boolean->boolena->true,false
+
+Conditional statement:
+
+if
+else if
+else
+switch
+case
+break
+
+
+-------------------If else--------------------------
+user age = 25;
+
+if(age>=18)
+{
+
+}
+else
+{
+
+}
+
+
+
+
+
+
+
