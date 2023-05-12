@@ -1,0 +1,14 @@
+16. Write a program user enter the 5 subjects mark. You have to make a total
+and find the percentage.
+percentage > 75 you have to print “Distinction”
+percentage > 60 and percentage <= 75 you have to print “First class”
+percentage >50 and percentage <= 60 you have to print “Second class”
+percentage > 35 and percentage <= 50 you have to print “Pass class”
+Otherwise print “Fail”
+
+17. Write Program use switch statement. Display Monday to Sunday
+
+a. Write a program to print the 1 to 10 using For loop.
+b. Write a Program to print the 51 to 60 using while loop
+c. write a program to print the 100 to 81 using do....while loop
+d .write a program you have to find the factorial of given number.
