@@ -1,0 +1,49 @@
+JDK 
+Set the path of JDK
+Eclipse
+Data Types
+Variables
+Conditional statement
+Looping Statement
+
+i=5;//assign
+i==5;//compare
+
+Operators
+
+Arithmetic Op => +,-,*,/,%
+Relational Op=> <,><=,>=,==
+Assignment Op=> = 
+ShorthandOp => +=,-=,*=,/=,%=
+
+OOP=>Object Oriented Programming
+
+Fetaures of OOP:
+1)Object:Any Entity which has own state and behaviour
+ex:pen
+
+2)Class:Collection of objects 
+ex:human body
+
+3)Abstraction:Hidning internal details and showing functionalities
+ex:login page
+
+4)Encapsulation:Wrapping up of data or binding of data
+ex:capsule
+
+5)Inheritance:When one object acquire all the properties and behaviour of parent class
+ex:father-son
+
+6)Polymorphism:many ways to perform anything
+ex:road ways
+
+
+Constructor: When Method Having a same as a classname
+
+types of constructor
+1)default
+2)parameterized
+3)copy
+
+
+
