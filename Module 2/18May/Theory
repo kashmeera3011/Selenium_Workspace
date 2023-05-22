@@ -1,0 +1,17 @@
+
+String:
+
+1)
+StringBuilder: You can't change direct value -Immutable
+
+
+2) 
+StringBuffer: You can change value-Mutable
+
+
+
+FileOutputStream - write
+FileInputStream - read
+
+byte
+
