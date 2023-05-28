@@ -1,0 +1,29 @@
+
+Collection Framework:
+
+Interface:
+
+1) List
+2) Set
+3) Map
+
+
+Class:
+
+1) ArrayList:
+add-> add single element
+addAll->add list
+remove->add element according to either name or index
+removeAll->add all list
+retainAll->print common data between list
+
+
+2) LinkedList:
+Single Linkedlist
+Double LinkedList
+
+3) HashSet ->Duplicate value remove
+
+4) HashMap
+5) Vector
+6) Stack
