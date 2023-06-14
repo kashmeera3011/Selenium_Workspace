@@ -17,7 +17,7 @@ public class DynamicTableEx
 		
 		driver.manage().window().maximize();
 		
-		String text = driver.findElement(By.xpath("//table[@id=\"post-body-1325137018292710854\"]/div[1]/div[1]/div[5]/table")).getText();
+		String text = driver.findElement(By.xpath("//*[@id=\"post-body-1325137018292710854\"]/div[1]/div[1]/div[5]/table/tbody/tr[2]/td[1]/span")).getText();
 		Thread.sleep(2000);
 		System.out.println(text);
 		
