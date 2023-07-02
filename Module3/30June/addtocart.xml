@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite parallel="false" name="Suite">
+	
+<test name="Test1">
+  <parameter name="email" value="standard_user"/>
+  <parameter name="password" value="secret_sauce"/>
+    <classes>
+      <class name="task_30_june.home_work_multiuser_login"/>
+    </classes>
+  </test>   
+   
+    
+</suite>
