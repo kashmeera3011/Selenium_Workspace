@@ -1,1 +1,37 @@
 
+What is Automation Testing?
+Automation Testing is a software testing technique that performs using special automated testing software tools to execute a test case suite.
+
+Which Are The Browsers Supported By Selenium Ide?
+Mozilla Firefox and Google Chrome
+
+What are the benefits of Automation Testing?
+1. Enhanced Results
+Since automation testing saves plenty of time even when complex and enormous systems are taken into consideration. This allows testing to be carried out repeatedly, delivering better and faster results with significantly lesser efforts and reduced time.
+2.  Swifter Feedback system
+Automation testing is extremely crucial during the validation phase of any software project. It significantly enhances communication among the developers, designers, and product merchants, and provides space for the potential glitches to be rectified immediately thus enhancing the efficiency of the development team.
+  3.  Brand Enhancement
+ The effectiveness of testing is always dependent on the quality of test data that is being used. Testing is often performed on the copies of live databases as creating relevant and quality test data takes copious amounts of time. Automation solutions allow you to re-use your data time and again. This saves a lot of costs from project handling and project maintenance perspective.
+The best aspect of automated testing is that it adds value to all the attached stakeholders. Automated testing systems not only enhance the system’s capability but also pave the way towards digital innovation and revolution. It not only improves the brand name but also increases brand recall value, thus ensuring far greater customer retention. Due to automation testing, there are permanent fixes generated to issues long pertained as unsolvable.  
+4. Cost-effective
+Even though the initial investment needed for automation testing is on the higher end, it saves a lot of money for the company in the longer run. It is predominantly due to the reduction in the amount of time required to run the tests. It also contributes a much higher quality of work as there are no chances of neglect or human error. This decreases the necessity of fixing glitches in the post-release phase, thus saving huge amounts of project costs.
+5. Efficiency Testing
+Testing is one of the most pivotal parts of the entire application development cycle. The most attractive part of the automation testing is that it can be left virtually unattended. This leaves a lot of room for the results to be monitored towards the end of the process. This allows for increasing the overall efficiency of the application.
+6.  Increase in Coverage Area
+Through the use of automation testing, more tests can be allotted pertaining to any application. This leads to higher testing coverage and a reduction in software anomalies. It also allows room for testing more features and complex applications. However, in order to the same thing in a manual testing scenario would require a massive team along with heavy time constraints.
+7.  Detailed Testing
+All testers tend to have different testing approaches with different focus areas as per their exposure and level of expertise. With the help of automation, there is an equal focus on all areas of testing, thus assuring the best possible quality of the end product with greater emphasis on each aspect of the product. Automation testing is known for its atom level approach of testing due to which it is considered error-free.
+8. Reusability
+Test Automation is repetitive in nature due to the nature of its test automation cases. In addition to an easy setup configuration, it gives the software developers an opportunity to assess the program’s reaction. Automated test cases are totally reusable and hence can be utilized for testing any aspect of the code as per significance and through a plethora of different approaches.
+9. Earlier Detection of Defects
+ Automation testing documents the software defects and hence making it considerably easier for the testing teams. This also makes it relatively easier for the development and support team to together contemplate the defects and give a faster output. The overall development speed of the project is increased while ensuring correct functionality across relevant areas. The earlier any defect is identified, the better and cost-efficient it is to solve and deploy it.
+10. Time to market
+Test automation helps significantly in reducing the time-to-market launch of an application. Automation testing allows constant and regular execution of test cases. Post automation the test library execution is extremely swift and runs longer.
+
+What are the advantages of Selenium?
+Selenium is an open-source automation testing tool and it is free of cost to use. Selenium provides high tester flexibility to write advanced and complex test cases. Supports test case execution on multiple operating systems such as Windows, Linux, Android, Mac, and iOS.
+
+Why testers should opt for Selenium and not QTP?
+Selenium, however, supports a wide range of programming languages. QTP/UFT test scripts run only on the Windows environment. They cannot be run across all browsers. On the other hand, Selenium is OS independent and allows test scripts to run across all browsers
+
+
