@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="TestSuite">
+    <test name="SanityTests">
+        <groups>
+            <run>
+                <include name="sanity" />
+            </run>
+        </groups>
+        <classes>
+            <class name="module_4_Testng.TestNgGroupExample" />
+        </classes>
+    </test>
+
+    <test name="RegressionTests">
+        <groups>
+            <run>
+                <include name="regression" />
+            </run>
+        </groups>
+        <classes>
+            <class name="module_4_Testng.TestNgGroupExample" />
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite  name="Suite">
+
+<test thread-count="5" name="Test">
+  <parameter name="uname" value="pranav"></parameter>
+  <parameter name="pass" value="1234"></parameter>
+    <classes>
+      <class name="module_4_Testng.FacebookLoginParameterizedTestNg"/>
+    </classes>
+  </test>
+  
+  <test thread-count="5" name="Test2">
+  <parameter name="uname" value="harshit7890"></parameter>
+  <parameter name="pass" value="1234"></parameter>
+    <classes>
+      <class name="module_4_Testng.FacebookLoginParameterizedTestNg"/>
+    </classes>
+  </test>
+</suite>
